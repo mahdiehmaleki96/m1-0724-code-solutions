@@ -1,0 +1,11 @@
+'use strict';
+/* exported isVowel */
+function isVowel(char) {
+  let vowelChar = ['A', 'a', 'E', 'e', 'I', 'i', 'O', 'o', 'U', 'u'];
+  for (let i = 0; i < vowelChar.length; i++) {
+    if (char === vowelChar[i]) {
+      return true;
+    }
+  }
+  return false;
+}
