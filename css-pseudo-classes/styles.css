@@ -1,0 +1,23 @@
+.big-button {
+  background-color: lightgray;
+  font-size: 18px;
+  padding: 20px 40px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.big-button:hover {
+  background-color: black;
+  color: white;
+}
+
+table.striped thead > tr {
+  color: white;
+  background-color: black;
+}
+
+table.striped tbody > tr:nth-child(odd) {
+  background-color: lightgray;
+}
