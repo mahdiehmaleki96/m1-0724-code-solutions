@@ -1,0 +1,50 @@
+h1 {
+  font-size: 4rem;
+}
+
+p {
+  font-size: 1.8em;
+  font-weight: 500;
+}
+
+.pokemon {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.pokemon > img {
+  width: 270px;
+
+  /* your code here */
+}
+
+#bulbasaur {
+  /* your code here */
+  position: relative;
+  top: 30px;
+}
+
+#charmander {
+  /* your code here */
+  position: relative;
+  top: 70px;
+}
+
+#squirtle {
+  /* your code here */
+  position: relative;
+  top: 130px;
+}
+
+#pikachu {
+  /* your code here */
+  position: relative;
+  top: 280px;
+}
+
+#jigglypuff {
+  /* your code here */
+  position: relative;
+  top: 550px;
+  left: 25px;
+}
