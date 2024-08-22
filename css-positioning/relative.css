@@ -16,35 +16,31 @@ p {
   width: 270px;
 
   /* your code here */
+  position: relative;
 }
 
 #bulbasaur {
   /* your code here */
-  position: relative;
   top: 30px;
 }
 
 #charmander {
   /* your code here */
-  position: relative;
   top: 70px;
 }
 
 #squirtle {
   /* your code here */
-  position: relative;
   top: 130px;
 }
 
 #pikachu {
   /* your code here */
-  position: relative;
   top: 280px;
 }
 
 #jigglypuff {
   /* your code here */
-  position: relative;
   top: 550px;
   left: 25px;
 }
