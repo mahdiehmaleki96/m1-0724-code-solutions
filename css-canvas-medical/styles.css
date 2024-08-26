@@ -1,0 +1,286 @@
+body {
+  background-color: white;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.mainPage {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.row1Menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 130px;
+  background-color: #fff;
+  margin: 50px;
+  border-bottom: 1px solid rgb(179, 175, 175);
+}
+
+.logo img {
+  height: 35px;
+}
+
+.menu ul {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  margin: 0 20px;
+}
+
+.menu a {
+  text-decoration: none;
+  color: rgb(179, 175, 175);
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.menu button {
+  background-color: #20527c;
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.menu button:hover {
+  background-color: rgb(68, 172, 233);
+}
+
+.menu ul li:last-child {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.row2Heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('./images/hero.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 70vh;
+  width: 80%;
+  position: relative;
+  margin: 50px auto;
+}
+
+.content {
+  color: white;
+  text-align: left;
+  background-color: rgba(0, 0, 0, 0.4);
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 100px;
+  border-radius: 8px;
+}
+
+.content h1 {
+  max-width: 500px;
+  font-family: 'Tiempos Headline', sans-serif;
+  font-size: 40px;
+  font-weight: normal;
+  margin: 20px;
+}
+
+.content p {
+  max-width: 600px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 17px;
+  font-weight: normal;
+  line-height: 2;
+  margin: 20px;
+}
+
+.getStarted {
+  background-color: #20527c;
+  padding: 20px 60px;
+  border-radius: 5px;
+  color: white;
+  font-size: 22px;
+  border: none;
+  cursor: pointer;
+  margin: 20px;
+}
+
+.getStarted:hover {
+  background-color: #44ace9;
+}
+
+.row3ClinicianLocation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(241, 237, 237, 0.971);
+  background-size: cover;
+  background-position: center;
+  height: auto;
+  width: 100%;
+  position: relative;
+  margin: 50px auto;
+  padding: 40px;
+}
+
+.locationContent {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.locationContent h2 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  color: #6f6e6e;
+}
+
+.locationContent p {
+  font-size: 20px;
+  color: #777;
+  line-height: 1.8;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.clinics {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 80px;
+  margin: 0 auto;
+}
+
+.clinic {
+  flex: 1 1 45%;
+  font-size: 22px;
+  color: #7c7b7b;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.row4LearnMore {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  padding: 10px 100px;
+}
+
+.learnMoreContent {
+  flex: 1;
+  margin-right: 50px;
+}
+
+.learnMoreContent h2 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 34px;
+  color: #6d6d6d;
+  margin-bottom: 20px;
+}
+
+.learnMoreContent p {
+  font-size: 18px;
+  color: #6d6d6d;
+  line-height: 1.8;
+  max-width: 600px;
+}
+
+.learnMoreButton {
+  background-color: #20527c;
+  padding: 15px 40px;
+  border-radius: 5px;
+  color: white;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.learnMoreButton:hover {
+  background-color: #44ace9;
+}
+
+.footer {
+  background-color: #4a4a4a;
+  color: white;
+  padding: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin-top: 50px;
+}
+
+.footer img {
+  width: 150px;
+  height: auto;
+  margin: 20px;
+}
+
+.footerBottom a {
+  padding-right: 50px;
+  color: rgb(123, 121, 121);
+  text-decoration: none;
+}
+
+.footerBottom a:hover {
+  text-decoration: underline;
+}
+
+.footerBottom p {
+  margin: 0;
+  font-weight: bold;
+}
+
+.footer .contactInfo,
+.footer .footerLinks {
+  flex: 1 1 30%;
+}
+
+.footer .contactInfo h4,
+.footer .footerLinks h4 {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.footer .contactInfo p,
+.footer .footerLinks a {
+  font-size: 16px;
+  color: white;
+  margin-bottom: 15px;
+  display: block;
+  text-decoration: none;
+}
+
+.footer .footerLinks a:hover {
+  text-decoration: underline;
+}
+
+.footerBottom {
+  background-color: rgba(241, 237, 237, 0.971);
+  color: #bbb;
+  padding: 40px 100px;
+  font-size: 16px;
+  width: 100%;
+  position: relative;
+  margin-bottom: 20px;
+}
