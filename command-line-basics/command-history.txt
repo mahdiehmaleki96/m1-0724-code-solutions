@@ -1,0 +1,500 @@
+   69  git switch main
+   70  git pull origin main
+   71  git branch html-web-page
+   72  git switch html-web-page
+   73  git add html-web-page
+   74  git commit -m"completed html-web-page"
+   75  git push origin html-web-page
+   76  git switch main
+   77  git pull origin main
+   78  git branch css-syntax
+   79  git switch css-syntax
+   80  git add css-syntax
+   81  git commit -m"completed css-syntax"
+   82  git push origin css-syntax
+   83  git status
+   84  git switch main
+   85  git switch html-tables
+   86  git add html-tables
+   87  git commit -m"completed html-tables"
+   88  git push origin html-tables
+   89  git switch main
+   90  git pull origin main
+   91  git branch css-fonts-and-colors
+   92  git switch css-fonts-and-colors
+   93  git add css-fonts-and-colors
+   94  git commit -m"completed css-fonts-and-colors"
+   95  git push origin css-fonts-and-colors
+   96  git switch main
+   97  git pull origin main
+   98  git switch object-manipulation-2
+   99  cd object-manipulation-2/src
+  100  npx tsc --watch
+  101  cd ..
+  102  cd ..
+  103  git add object-manipulation-2
+  104  git commit -m"completed object-manipulation-2"
+  105  git add object-manipulation-2
+  106  git commit -m"completed object-manipulation-2"
+  107  git add object-manipulation-2
+  108  git commit -m"completed object-manipulation-2"
+  109  git push origin object-manipulation-2
+  110  git status
+  111  git switch main
+  112  git switch object-manipulation-2
+  113  git switch main
+  114  git pull origin main
+  115  git branch css-box-model
+  116  git switch css-box-model
+  117  git add css-box-model
+  118  git commit -m"completed css-box-model"
+  119  git push origin css-box-model
+  120  git switch main
+  121  git pull origin main
+  122  git branch css-pseudo-classes
+  123  git switch css-pseudo-classes
+  124  git add css-pseudo-classes
+  125  git commit -m"completed css-pseudo-classes"
+  126  git push origin css-pseudo-classes
+  127  git switch maib
+  128  git switch main
+  129  git pull origin main
+  130  git branch css-brochure-form
+  131  git switch css-brochure-form
+  132  git status
+  133  git push origin css-brochure-form
+  134  git add css-brochure-form
+  135  git commit -m"completed css-brochure-form"
+  136  git push origin css-brochure-form
+  137  git status
+  138  git switch main
+  139  git pull origin main
+  140  git branch css-flexbox
+  141  git switch css-flexbox
+  142  git add css-flexbox
+  143  git commit -m"completed css-flexbox"
+  144  git push origin css-flexbox
+  145  git switch main
+  146  git pull origin main
+  147  git branch css-layout-classes
+  148  git switch css-layout-classes
+  149  git add css-layout-classes
+  150  git commit -m"completed css-layout-classes"
+  151  git push origin css-layout-classes
+  152  git switch main
+  153  git pull origin main
+  154  git branch css-three-column-layout
+  155  git switch css-three-column-layout
+  156  git add css-three-column-layout
+  157  git commit -m"completed css-three-column-layout"
+  158  git push css-three-column-layout
+  159  git push origin css-three-column-layout
+  160  git switch main
+  161  git pull origin main
+  162  git branch css-positioning
+  163  git switch css-positioning
+  164  git add css-positioning
+  165  git commit -m"completed css-positioning"
+  166  git push origin css-positioning
+  167  git status
+  168  git switch main
+  169  git pull origin main
+  170  git branch css-cascade
+  171  git switch css-cascade
+  172  git pull origin main
+  173  git switch main
+  174  git switch css-positioning
+  175  git add css-positioning
+  176  git commit -m"updated css-positioning"
+  177  git push origin css-positioning
+  178  git switch main
+  179  git pull origin main
+  180  git switch css-cascade
+  181  git add css-cascade
+  182  git commit -m"completed css-cascade"
+  183  git push origin css-cascade
+  184  git switch main
+  185  git pull origin main
+  186  git branch dom-querying
+  187  git switch dom-querying
+  188  cd dom-querying
+  189  npx tsc --watch
+  190  ..cd
+  191  cd..
+  192  cd
+  193  ../cd
+  194  ../
+  195  /
+  196  cd ..
+  197  git add dom-querying
+  198  git commit -m"completed dom-querying"
+  199  git push origin dom-querying
+  200  git switch main
+  201  git status
+  202  git pull origin main
+  203  git branch css-canvas-medical
+  204  git switch css-canvas-medical
+  205  git add css-canvas-medical
+  206  git commit -m"completed css-canvas-medical"
+  207  git add css-canvas-medical
+  208  git commit -m"completed css-canvas-medical"
+  209  git push origin css-canvas-medical
+  210  git switch main
+  211  git pull origin main
+  212  git pull origin main
+  213  git branch dom-events
+  214  git switch dom-events
+  215  cd dom-events
+  216  npx tsc --watch
+  217  cd ..
+  218  add dom-events
+  219  git add dom-events
+  220  git commit -m"completed dom-events"
+  221  git add dom-events
+  222  git commit -m"completed dom-events"
+  223  git add dom-events
+  224  git commit -m"completed dom-events"
+  225  git push dom-events
+  226  git push origin dom-events
+  227  git switch main
+  228  git pull origin main
+  229  git branch typescript-modal
+  230  git switch typescript-modal
+  231  cd typescript-modal
+  232  npx tsc --watch
+  233  cd ..
+  234  git add typescript-modal
+  235  git commit -m"completed typescript-modal"
+  236  git push origin typescript-modal
+  237  git switch main
+  238  git pull origin main
+  239  git branch typescript-forms
+  240  git switch typescript-forms
+  241  cd typescript-forms
+  242  cd npx tsc --watch
+  243  cd npx tsc -watch
+  244  npx tsc --watch
+  245  cd ..
+  246  git add typescript-forms
+  247  git commit -m"completed typescript-forms"
+  248  git push origin typescript-forms
+  249  git switch main
+  250  git pull origin main
+  251  git branch css-media-queries
+  252  git switch css-media-queries
+  253  git add css-media-queries
+  254  git commit -m"completed css-media-queries"
+  255  git push origin css-media-queries
+  256  git switch main
+  257  git pull origin main
+  258  git branch css-transitions-and-transforms
+  259  git switch css-transitions-and-transforms
+  260  git add css-transitions-and-transforms
+  261  git commit -m"completed css-transitions-and-transforms"
+  262  git push origin css-transitions-and-transforms
+  263  git switch main
+  264  git pull origin main
+  265  git branch css-responsive-layout
+  266  git switch css-responsive-layout
+  267  git add css-responsive-layout
+  268  git commit -m"completed css-responsive-layout"
+  269  git push origin css-responsive-layout
+  270  git switch main
+  271  git pull orgin main
+  272  git branch typescript-view-swapping
+  273  git switch typescript-view-swapping
+  274  cd typescript-view-swapping
+  275  npx tsc --watch
+  276  cd ..
+  277  git add typescript-view-swapping
+  278  git commit -m"completed typescript-view-swapping"
+  279  git add typescript-view-swapping
+  280  git commit -m"completed typescript-view-swapping"
+  281  git push origin typescript-view-swapping
+  282  git switch main
+  283  git pull origin main
+  284  git branch typescript-typing-tutor
+  285  git switch typescript-typing-tutor
+  286  cd typescript-typing-tutor
+  287  npx tsc --watch
+  288  cd ..
+  289  git add typescript-typing-tutor
+  290  git commit -m"completed typescript-typing-tutor"
+  291  git add typescript-typing-tutor
+  292  git commit -m"completed typescript-typing-tutor"
+  293  git push origin typescript-typing-tutor
+  294  git switch main
+  295  git pull origin main
+  296  git branch typescript-light-bulb
+  297  git switch typescript-light-bulb
+  298  cd typescript-light-bulb
+  299  npx tsc --watch
+  300  cd ..
+  301  git add typescript-light-bulb
+  302  git commit -m"completed typescript-light-bulb"
+  303  git add typescript-light-bulb
+  304  git commit -m"completed typescript-light-bulb"
+  305  git push origin typescript-light-bulb
+  306  git switch maib
+  307  git switch main
+  308  git pull origin main
+  309  git branch dom-manipulation
+  310  git switch dom-manipulation
+  311  cd dom-manipulation
+  312  npx tsc --watch
+  313  cd dom-manipulation
+  314  npx tsc --watch
+  315  cd ..
+  316  git add dom-manipulation
+  317  git commit -m"completed dom-manipulation"
+  318  git push origin dom-manipulation
+  319  git switch main
+  320  git pull origin main
+  321  git branch typescript-and-json
+  322  git switch typescript-and-json
+  323  cd typescript-and-json
+  324  npx tsc --watch
+  325  cd ..
+  326  git add typescript-and-json
+  327  git commit -m"completed typescript-and-json"
+  328  git push origin typescript-and-json
+  329  git switch main
+  330  git pull origin main
+  331  git branch typescript-local-storage
+  332  git switch typescript-local-storage
+  333  cd ..
+  334  cd typescript-local-storage
+  335  npx tsc --watch
+  336  cd ..
+  337  git add typescript-local-storage
+  338  git commit -m"completed typescript-local-storage"
+  339  git add typescript-local-storage
+  340  git commit -m"completed typescript-local-storage"
+  341  git push origin typescript-local-storage
+  342  git switch main
+  343  cd ..
+  344  cd code-journal
+  345  main
+  346  cd main
+  347  cd /code-journal
+  348  git pull origin 
+  349  git pull origin workspaces
+  350  git pull origin main
+  351  cd m1-0724-code-solutions 
+  352  cd ..
+  353  git clone git@github.com:mahdiehmaleki96/code-journal.git
+  354  cd code-journal
+  355  npm istall
+  356  npm install
+  357  git pull origin main
+  358  git branch issue-1-create-an-entry
+  359  git switch issue-1-create-an-entry
+  360  git switch main
+  361  git pull origin main
+  362  git -bram=nch
+  363  git -branch
+  364  git branch list
+  365  git -branch list
+  366  git branch --list
+  367  git switch issue-1-create-an-entry
+  368  git pull origin main
+  369  git branch --list
+  370  git switch main
+  371  git pull origin main
+  372  git branch --list
+  373  git status
+  374  git switch issue-1-create-an-entry
+  375  git pull origin main
+  376  cd issue-1-create-an-entry
+  377  npx tsc --watch
+  378  cd ts
+  379  npx tsc --watch
+  380  cd..
+  381  switch main
+  382  git pull origin main
+  383  git branch -list
+  384  git branch --list
+  385  git switch issue-1-create-an-entry
+  386  npx tsc --watch
+  387  git switch main
+  388  pgit ull origin main
+  389  git pull origin main
+  390  git branch --list
+  391  git switch issue-1-create-an-entry
+  392  cd issue-1-create-an-entry
+  393  npx tsc --watch
+  394  npx tsc --watch
+  395  npx tsc --watch
+  396  git add issue-1-create-an-entry
+  397  git statis
+  398  git status
+  399  cd ..
+  400  status
+  401  git status
+  402  git add issue-1-create-an-entry
+  403  git add code-journal
+  404  cd code-journal
+  405  git add issue-1-create-an-entry
+  406  git add code-journal
+  407  git add code-journal (issue-1-create-an-entry)
+  408  git add code-journal(issue-1-create-an-entry)
+  409  git add
+  410  git commit -m 'Listen for the submit event on the entry form. #1'
+  411  git add js/*.js
+  412  git status
+  413  git commit -m 'Listen for the submit event on the entry form. #1'
+  414  git push origin issue-1-create-an-entry 
+  415  git switch main
+  416  pull origin main
+  417  git pull origin main
+  418  git pull origin main
+  419  git branch issue-2-view-an-entry
+  420  git branch --list
+  421  git switch issue-2-view-an-entry
+  422  cd ..
+  423  cd workspace
+  424  cd workspaces
+  425  git clone git@github.com:mahdiehmaleki96/code-journal.git
+  426  cd code-journal
+  427  npm install
+  428  cd ..
+  429  cd issue-1-create-an-entry
+  430  git cd issue-1-create-an-entry
+  431  git switch issue-1-create-an-entry
+  432  cd code-journal
+  433  git switch main
+  434  git switch issue-2-create-an-entry
+  435  git switch issue-1-create-an-entry
+  436  git switch main
+  437  git status
+  438  git checkout css/layout.css css/styles.css index.html ts/data.ts ts/main.ts
+  439  git status
+  440  git pull 
+  441  git switch issue-1-create-an-entry 
+  442  git status
+  443  git switch issue-2-view-an-entry 
+  444  git status
+  445  cd ts
+  446  npx tsc --watch
+  447  cd ..
+  448  cd ts
+  449  npx tsc --watch
+  450  git pull origin main
+  451  git branch practice-interview-challenge
+  452  git switch practice-interview-challenge
+  453  cd practice-interview-challenge
+  454  npx tsc --watch
+  455  cd ..
+  456  git status
+  457  git commit -m"completed practice-interview-chanllenge"
+  458  git commit _m"completed practice-interview-challenge"
+  459  git commit -m"completed practice-interview-challenge"
+  460  git add practice-interview-challenge
+  461  git commit -m"completed practice-interview-challenge"
+  462  git add practice-interview-challenge
+  463  git commit -m"completed practice-interview-challenge"
+  464  git push origin practice-interview-challenge
+  465  git switch main
+  466  git add issue-2-view-an-entry
+  467  git status
+  468  commit -a -m"completed feature2"
+  469  git commit -a -m"completed feature2"
+  470  git commit -a -m"completed feature2"
+  471  git commit -a -m"completed feature2"
+  472  git push 
+  473  git push origin main
+  474  git push issue-2-view-an-entry
+  475  git switch main
+  476  git switch issue-2-view-an-entry 
+  477  git push
+  478    git push --set-upstream origin issue-2-view-an-entry
+  479  git pull origin main
+  480  git branch typescript-timers
+  481  git switch typescript-timers
+  482  cd typescript-timers
+  483  npx tsc --watch
+  484  cd ..
+  485  git add typescript-timers
+  486  git commit -m"completed typescript-timers"
+  487  git push origin typescript-timers
+  488  git switch main
+  489  git pull origin main
+  490  git add typescript-destructuring
+  491  branch typescript-destructuring
+  492  git branch typescript-destructuring
+  493  git switch typescript-destructuring
+  494  cd typescript-destructuring
+  495  npx tsc --watch
+  496  cd ..
+  497  git add typescript-destructuring
+  498  git commit -m"completed typescript-destructuring"
+  499  git push origin typescript-destructuring
+  500  git switch main
+  501  git pull origin main
+  502  git branch command-line-basics
+  503  git switch command-line-basics
+  504  cd command-line-basics
+  505  man man
+  506  man man
+  507  man cat
+  508  cat laziness.txt
+  509  cat impatience.txt
+  510  cat hubris.txt
+  511  cat laziness.txt impatience.txt hubris.txt
+  512  cat laziness.txt impatience.txt hubris.txt > three-virtues.txt
+  513  cat three-virtues.txt 
+  514  man ls
+  515  ls
+  516  ls -a
+  517  ls -f
+  518  man ls
+  519  ls lfz/-staff/
+  520  ls lfz-staff/
+  521  ls lfz-staff/ -a
+  522  ls lfz-staff/ -f
+  523  ls lfz-staff/ -F
+  524  ls lfz-staff/ -aF > lfz-staff/contents.txt
+  525  cat lfz-staff/contents.txt 
+  526  man pwd
+  527  pwd
+  528  pwd > i-was-here.txt
+  529  ls 
+  530  cat i-was-here.txt 
+  531  man echo
+  532  echo "Hello, World!"
+  533  echo "Hello, World!" > hello.txt
+  534  ls
+  535  cat hello.txt
+  536  man touch
+  537  touch tag-youre-it.txt
+  538  touch snoot/boop.txt
+  539  ls snoot/
+  540  man mkdir
+  541  mkdir parent
+  542  ls
+  543  ls parent/
+  544  mkdir -p parent/child/grandchild
+  545  touch parent/child/grandchild .gitkeep
+  546  ls -a
+  547  mkdir -p parent/child/grandchild
+  548  touch .gitkeep
+  549  touch parent/child/grandchild/.gitkeep
+  550  man mv
+  551  mv pokiemans pokemon
+  552  ls
+  553  man rm
+  554  man rm
+  555  rm lol.txt
+  556  rm .gitkeep
+  557  ls
+  558  rm -r kill-me/
+  559  ls
+  560  man cp
+  561  cp and-then.txt no-and-then.txt
+  562  ls
+  563  cat 
+  564  cat and-then.txt 
+  565  cat no-and-then.txt 
+  566  man history
+  567  history
+  568  history > command-history.txt
